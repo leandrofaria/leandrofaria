@@ -8,7 +8,6 @@
 
 <h4 align="center">Fullstack Web Developer @ LeandroFaria.com</h4>
 <h4 align="center">TI Analyst @ Banco de Brasília - BRB</h4>
-<h4 align="center">Chief Technology Officer @ Inovilar</h4>
 <br>
 <h4 align="center"><a href="https://www.leandrofaria.com">www.leandrofaria.com</a></h4>
 <br>

@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/leandrofaria.png" alt="Leandro Faria" width="120" style="border-radius: 100px">
+  <img src="https://github.com/leandrofaria.png" alt="Leandro Faria" width="120" style="border-radius: '100px'">
   <br>
   Leandro Faria
   <br>

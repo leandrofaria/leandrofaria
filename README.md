@@ -17,6 +17,11 @@
 <h2 align="center">💻 Technologies</h2>
 <h3 align="center">Frontend &middot; Backend &middot; Infra</h3>
 <br>
+<p align="center>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="30px" />
+  <img src="https://img.shields.io/badge/django--rest--framework-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue" height="30px" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30px" />
+<br>
 <p align="center">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30px" />
     <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" height="30px" />

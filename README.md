@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Founder of Estudador (<a href="https://www.estudador.com.br">www.estudador.com.br</a>)>
+<h4 align="center">Founder of Estudador (<a href="https://www.estudador.com.br">www.estudador.com.br</a>)
 <h4 align="center">Fullstack Web Developer / Sotware Engineer / Software Architect</h4>
 <h4 align="center">Solution Architect @ Banco de Brasília - BRB</h4>
 <br>

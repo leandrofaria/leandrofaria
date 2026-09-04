@@ -8,11 +8,9 @@ Open to remote roles.
 
 ### Running right now
 
-| | |
-| --- | --- |
-| [estudador.com.br](https://www.estudador.com.br) | NestJS · Next.js · MongoDB · Clerk · Stripe |
-| [qrdash.com.br](https://qrdash.com.br) | Next.js · NestJS · MongoDB |
-| [repcalc.leandrofaria.com](https://repcalc.leandrofaria.com) | Next.js · [source](https://github.com/leandrofaria/repcalc) |
+- [estudador.com.br](https://www.estudador.com.br) — NestJS · Next.js · MongoDB · Clerk · Stripe
+- [qrdash.com.br](https://qrdash.com.br) — Next.js · NestJS · MongoDB
+- [repcalc.leandrofaria.com](https://repcalc.leandrofaria.com) — Next.js · [source](https://github.com/leandrofaria/repcalc)
 
 Most of what I build sits in private repositories. The write-ups are on
 [leandrofaria.com](https://www.leandrofaria.com) — how each system is put together, what I

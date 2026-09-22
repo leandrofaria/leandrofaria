@@ -8,7 +8,7 @@ Open to remote roles.
 
 ### Running right now
 
-- [estudador.com.br](https://www.estudador.com.br) — NestJS · Next.js · MongoDB · Clerk · Stripe
+- [estudador.com.br](https://www.estudador.com.br) — Next.js · NestJS · MongoDB · DeepSeek API
 - [qrdash.com.br](https://qrdash.com.br) — Next.js · NestJS · MongoDB
 - [repcalc.leandrofaria.com](https://repcalc.leandrofaria.com) — Next.js · [source](https://github.com/leandrofaria/repcalc)
 
@@ -18,8 +18,8 @@ decided against, and what that cost.
 
 ### What I reach for
 
-TypeScript · NestJS · Next.js · React · Node.js · MongoDB · PostgreSQL  
-Linux · Nginx · Docker · PM2 · CI/CD
+TypeScript · NestJS · Next.js · React · Node.js · MongoDB  
+Linux VPS · Nginx · Docker · PM2
 
 ### Contact
 
